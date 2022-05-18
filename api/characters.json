@@ -1,0 +1,120 @@
+[
+    {
+        "name": "Harry E. Styles",
+        "gender": "Male",
+        "dateOfBirth": "01-02-1994",
+        "quote": "Treat People with Kindness",
+        "nationality": "British",
+        "album": "Harry's House",
+        "image": "https://bit.ly/3sISJbY",
+        "Favorite Song": "Fine Line"
+    },
+    {
+        "name": "Michael J. Jackson",
+        "gender": "Male",
+        "dateOfBirth": "29-08-1958",
+        "quote": "If you wanna make the world a better place, take a look at yourself, and then make a change.",
+        "nationality": "American",
+        "album": "Thriller 40",
+        "image": "https://bit.ly/3wo65gg",
+        "Favorite Song": "Butterflies"
+    },
+    {
+        "name": "Taylor A. Swift ",
+        "gender": "Female",
+        "dateOfBirth": "13-12-1989",
+        "quote": "My reputation's never been worse, so you must like me for me",
+        "nationality": "American",
+        "album": "Red Taylor's Version",
+        "image": "https://bit.ly/3FWNCdN",
+        "Favorite Song": "Cardigan"
+    },
+    {
+        "name": "James M. Bay",
+        "gender": "Male",
+        "dateOfBirth": "04-09-1990",
+        "quote": "Tryna push this problem up the hill when it's just too heavy to hold",
+        "nationality": "British",
+        "album": "Leap",
+        "image": "https://bit.ly/3t4WYz5",
+        "Favorite Song": "Stand Up"
+    },
+    
+    {
+        "name": "Adele L. B. Adkins",
+        "gender": "Female",
+        "dateOfBirth": "05-05-1988",
+        "quote": " Complacency is the worst trait to have, are you crazy?",
+        "nationality": "British",
+        "album": "30",
+        "image": "https://bit.ly/3yKcRhG",
+        "Favorite Song": "Love in the Dark"
+    },
+    
+    {
+        "name": "Finneas B. O'Connell",
+        "gender": "Male",
+        "dateOfBirth": "30-07-1997",
+        "quote": "We've got the time to take the world and make it better than it ever was ",
+        "nationality": "American",
+        "album": "Optimist",
+        "image": "https://bit.ly/3LpDTOn",
+        "Favorite Song": "Die Alone"
+    },
+    
+    {
+        "name": "Shawn P. R. Mendes",
+        "gender": "Male",
+        "dateOfBirth": "08-08-1998",
+        "quote": "And if I have to, I'll wait forever Say the word and I'll change my plans ",
+        "nationality": "Canadian",
+        "album": "Wonder",
+        "image": "https://bit.ly/3PE9Plo",
+        "Favorite Song": "Why"
+    },
+    
+    {
+        "name": "Billie E. P. B. O'Connell ",
+        "gender": "Female",
+        "dateOfBirth": "18-12-01",
+        "quote": " When I'm away from you, I'm happier than ever, wish I could explain it better",
+        "nationality": "American",
+        "album": "Happier Than Ever",
+        "image": "https://bit.ly/3MCpJKQ",
+        "Favorite Song": "I love you"
+    },
+    
+    {
+        "name": "Elizabeth W. Grant",
+        "gender": "Female",
+        "dateOfBirth": "21-06-1985",
+        "quote": "They mistook my kindness for weakness… ",
+        "nationality": "American",
+        "album": "Blue Banisters",
+        "image": "https://bit.ly/3lnqDiq",
+        "Favorite Song": "Mariners apartment complex"
+    },
+    
+    {
+        "name": "Bon Iver",
+        "gender": "",
+        "dateOfBirth": "",
+        "quote": "Cause I can't make you love me If you don't ",
+        "nationality": "American",
+        "album": "i,i",
+        "image": "https://bit.ly/38xVOoo",
+        "Favorite Song": "Rosyln"
+    },
+    
+    {
+        "name": "Coldplay",
+        "gender": "",
+        "dateOfBirth": "",
+        "quote": "I came here with a load and it feels so much lighter now I've met you ",
+        "nationality": "British",
+        "album": "Music of the Spheres",
+        "image": "https://bit.ly/3sJQmG5",
+        "Favorite Song": "Warning Sign"
+    }
+    
+]
